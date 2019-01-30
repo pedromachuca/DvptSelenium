@@ -1,0 +1,358 @@
+1548862423767	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Irkn7qzU8cV3"
+
+(firefox-esr:13531): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:13531): Gtk-WARNING **: Theme parsing error: <data>:1:76: Expected ')' in color definition
+1548862428215	Marionette	INFO	Listening on port 37383
+1548862428292	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1548862432816	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1WLF7hMqCXTn"
+
+(firefox-esr:13677): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:13677): Gtk-WARNING **: Theme parsing error: <data>:1:76: Expected ')' in color definition
+1548862435764	Marionette	INFO	Listening on port 40513
+1548862435828	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+[Parent 13677, Gecko_IOThread] WARNING: pipe error: Relais brisé (pipe): file /build/firefox-esr-JxmfqN/firefox-esr-60.4.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1548862464766	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.VpqRc6ZdlsKz"
+
+(firefox-esr:13837): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:13837): Gtk-WARNING **: Theme parsing error: <data>:1:76: Expected ')' in color definition
+1548862467863	Marionette	INFO	Listening on port 46199
+1548862467887	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+[Child 13884, Chrome_ChildThread] WARNING: pipe error (3): Connexion ré-initialisée par le correspondant: file /build/firefox-esr-JxmfqN/firefox-esr-60.4.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 826: Error: Connection is not open.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1548862482773	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.zESfaryRvwrf"
+
+(firefox-esr:13982): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:13982): Gtk-WARNING **: Theme parsing error: <data>:1:76: Expected ')' in color definition
+1548862486081	Marionette	INFO	Listening on port 33583
+1548862486181	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+JavaScript error: https://fbsbx.com/captcha/recaptcha/iframe/?referer=https%3A%2F%2Fwww.facebook.com, line 1: TypeError: o is null
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1548862537017	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.meRM3V2MPQQl"
+
+(firefox-esr:14142): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:14142): Gtk-WARNING **: Theme parsing error: <data>:1:76: Expected ')' in color definition
+1548862540056	Marionette	INFO	Listening on port 42887
+1548862540125	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+[Child 14191, Chrome_ChildThread] WARNING: pipe error: Relais brisé (pipe): file /build/firefox-esr-JxmfqN/firefox-esr-60.4.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 14191, Chrome_ChildThread] WARNING: pipe error: Relais brisé (pipe): file /build/firefox-esr-JxmfqN/firefox-esr-60.4.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1548862601746	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ygjGce835dcs"
+
+(firefox-esr:14316): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:14316): Gtk-WARNING **: Theme parsing error: <data>:1:76: Expected ')' in color definition
+1548862604745	Marionette	INFO	Listening on port 33593
+1548862604771	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1548862662761	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.e49Liy34iDq4"
+
+(firefox-esr:14512): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:14512): Gtk-WARNING **: Theme parsing error: <data>:1:76: Expected ')' in color definition
+1548862665848	Marionette	INFO	Listening on port 36383
+1548862665871	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1548862695735	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.cGVlu1FIfgKU"
+
+(firefox-esr:14673): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:14673): Gtk-WARNING **: Theme parsing error: <data>:1:76: Expected ')' in color definition
+1548862698597	Marionette	INFO	Listening on port 35299
+1548862698657	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.google.com
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+JavaScript error: https://www.esiea.fr/wp-includes/js/wp-emoji-release.min.js, line 4: TypeError: Argument 1 of MutationObserver.observe is not an object.
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js?ver=1.11.1, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s7.addthis.com/js/300/addthis_widget.js?ver=5.0.3#pubid=ra-5406f1291e456c98, line 2: NS_ERROR_NOT_INITIALIZED: 
+[Parent 14673, Gecko_IOThread] WARNING: pipe error: Relais brisé (pipe): file /build/firefox-esr-JxmfqN/firefox-esr-60.4.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+console.error: (new TypeError("can't access dead object", "resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js", 322))
+_untrackMutations@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js:322:7
+_hide@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js:368:5
+_update@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js:350:7
+update@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js:239:5
+_startRefreshLoop@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js:275:5
+show@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js:109:5
+showBoxModel@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters.js:187:19
+handler@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1106:19
+onPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1769:15
+receiveMessage@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/transport.js:760:7
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: (new TypeError("can't access dead object", "resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js", 322))
+_untrackMutations@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js:322:7
+_hide@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js:368:5
+_update@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js:350:7
+_show@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js:302:17
+show@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js:111:17
+showBoxModel@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters.js:187:19
+handler@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1106:19
+onPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1769:15
+receiveMessage@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/transport.js:760:7
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: (new TypeError("can't access dead object", "resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js", 322))
+_untrackMutations@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js:322:7
+_hide@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js:368:5
+_update@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js:350:7
+_show@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js:302:17
+show@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js:111:17
+showBoxModel@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters.js:187:19
+handler@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1106:19
+onPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1769:15
+receiveMessage@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/transport.js:760:7
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: (new TypeError("can't access dead object", "resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js", 322))
+_untrackMutations@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js:322:7
+_hide@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js:368:5
+_update@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js:350:7
+_show@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js:302:17
+show@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js:111:17
+showBoxModel@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters.js:187:19
+handler@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1106:19
+onPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1769:15
+receiveMessage@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/transport.js:760:7
+console.error: "Protocol error (unknownError): can't access dead object"
+console.log: Accessibility service init or shutdown observer does not exist.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1548865368010	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SIxCXPxXhXZd"
+
+(firefox-esr:27744): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:27744): Gtk-WARNING **: Theme parsing error: <data>:1:76: Expected ')' in color definition
+1548865370894	Marionette	INFO	Listening on port 34595
+1548865370929	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548865407733	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fuAcQQEQnpV6"
+
+(firefox-esr:27904): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:27904): Gtk-WARNING **: Theme parsing error: <data>:1:76: Expected ')' in color definition
+1548865410875	Marionette	INFO	Listening on port 44043
+1548865410953	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+[Parent 27744, Gecko_IOThread] WARNING: pipe error (104): Connexion ré-initialisée par le correspondant: file /build/firefox-esr-JxmfqN/firefox-esr-60.4.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1548865483840	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.BqCINgrgZr9R"
+
+(firefox-esr:28071): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:28071): Gtk-WARNING **: Theme parsing error: <data>:1:76: Expected ')' in color definition
+console.log: Accessibility service init or shutdown observer does not exist.
+1548865486870	Marionette	INFO	Listening on port 39209
+1548865486952	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548865633605	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.MUOsUl477ZWX"
+
+(firefox-esr:28317): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:28317): Gtk-WARNING **: Theme parsing error: <data>:1:76: Expected ')' in color definition
+1548865636714	Marionette	INFO	Listening on port 35651
+1548865636813	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1548865714521	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.9RLcntEBU1Dk"
+
+(firefox-esr:28955): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:28955): Gtk-WARNING **: Theme parsing error: <data>:1:76: Expected ')' in color definition
+1548865717509	Marionette	INFO	Listening on port 36195
+1548865717549	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+[Parent 28071, Gecko_IOThread] WARNING: pipe error (108): Connexion ré-initialisée par le correspondant: file /build/firefox-esr-JxmfqN/firefox-esr-60.4.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1548866289187	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Uf7b3t9ymNY1"
+
+(firefox-esr:30797): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:30797): Gtk-WARNING **: Theme parsing error: <data>:1:76: Expected ')' in color definition
+1548866292204	Marionette	INFO	Listening on port 34133
+1548866292296	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548866331945	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.mc1c1hbPVPoa"
+
+(firefox-esr:31026): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:31026): Gtk-WARNING **: Theme parsing error: <data>:1:76: Expected ')' in color definition
+1548866334936	Marionette	INFO	Listening on port 34173
+1548866334969	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 30797, Gecko_IOThread] WARNING: pipe error (81): Connexion ré-initialisée par le correspondant: file /build/firefox-esr-JxmfqN/firefox-esr-60.4.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+console.log: Accessibility service init or shutdown observer does not exist.
+[Parent 31026, Gecko_IOThread] WARNING: pipe error (105): Connexion ré-initialisée par le correspondant: file /build/firefox-esr-JxmfqN/firefox-esr-60.4.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1548866505496	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Ug4QcdtdxFzt"
+
+(firefox-esr:31318): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:31318): Gtk-WARNING **: Theme parsing error: <data>:1:76: Expected ')' in color definition
+1548866508487	Marionette	INFO	Listening on port 41067
+1548866508508	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548866613370	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.BR0EToxDwSel"
+
+(firefox-esr:31865): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:31865): Gtk-WARNING **: Theme parsing error: <data>:1:76: Expected ')' in color definition
+1548866616335	Marionette	INFO	Listening on port 46041
+1548866616394	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548867256513	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.xbjoMB9Heh0u"
+
+(firefox-esr:2535): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:2535): Gtk-WARNING **: Theme parsing error: <data>:1:76: Expected ')' in color definition
+1548867259729	Marionette	INFO	Listening on port 36141
+1548867259832	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+console.log: Accessibility service init or shutdown observer does not exist.
+console.log: Accessibility service init or shutdown observer does not exist.
+[Parent 2535, Gecko_IOThread] WARNING: pipe error (92): Connexion ré-initialisée par le correspondant: file /build/firefox-esr-JxmfqN/firefox-esr-60.4.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1548867347691	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.q2jPt8O4aA9g"
+
+(firefox-esr:2758): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:2758): Gtk-WARNING **: Theme parsing error: <data>:1:76: Expected ')' in color definition
+1548867350823	Marionette	INFO	Listening on port 37869
+1548867350901	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+[Parent 2758, Gecko_IOThread] WARNING: pipe error (82): Connexion ré-initialisée par le correspondant: file /build/firefox-esr-JxmfqN/firefox-esr-60.4.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
